@@ -42,6 +42,13 @@ Machine learning model to predict SpaceX Falcon 9 first-stage landing success.
 | Student Performance | Linear Regression   | 98.87% R²    | Linear relationships dominate - polynomial features didn't improve performance |
 | Falcon 9 Landings   | Logistic Regression | 89% F1-Score | GridFins (0.64) and Legs (0.67) are strongest predictors of landing success    |
 
+### 📋 Interactive Notebooks
+
+Choose your preferred format:
+
+- **Jupyter** (GitHub viewable): Links above ☝️
+- **Marimo** (interactive): Commands below ⬇️
+
 ## 🔧 Setup & Usage
 
 ### Prerequisites
@@ -59,12 +66,6 @@ marimo run student_performance_linear_regression.py
 # Falcon 9 Landing Prediction
 marimo run falcon9_logistic_regression.py
 ```
-
-### 📋 Interactive Notebooks
-
-Choose your preferred format:
-- **Jupyter** (GitHub viewable): Links above ☝️  
-- **Marimo** (interactive): Commands below ⬇️
 
 ## 📁 Project Structure
 
