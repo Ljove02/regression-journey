@@ -1,8 +1,8 @@
 # 🚀 Regression Journey
 
-A comprehensive exploration of machine learning regression techniques through two real-world case studies:
+**Quick View:** [🎓 Student Performance](student_performance.ipynb) | [🚀 Falcon 9 Landing](falcon9.ipynb)
 
-Predicting student academic performance and SpaceX Falcon 9 landing outcomes.
+A comprehensive exploration of machine learning regression techniques through two real-world case studies: predicting student academic performance and SpaceX Falcon 9 landing outcomes.
 
 ## 📊 Projects Overview
 
@@ -60,14 +60,11 @@ marimo run student_performance_linear_regression.py
 marimo run falcon9_logistic_regression.py
 ```
 
-### 📋 Quick Preview on GitHub
+### 📋 Interactive Notebooks
 
-For a quick overview without installation, you can **view the Jupyter notebook versions directly on GitHub**:
-
-- **[🎓 Student Performance Analysis](student_performance.ipynb)** - Browse the complete analysis with visualizations
-- **[🚀 Falcon 9 Landing Prediction](falcon9.ipynb)** - Explore the SpaceX landing model with charts and metrics
-
-*Note: GitHub's notebook viewer renders all outputs, plots, and markdown for easy reading without running code.*
+Choose your preferred format:
+- **Jupyter** (GitHub viewable): Links above ☝️  
+- **Marimo** (interactive): Commands below ⬇️
 
 ## 📁 Project Structure
 
