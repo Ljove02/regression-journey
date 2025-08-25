@@ -60,16 +60,27 @@ marimo run student_performance_linear_regression.py
 marimo run falcon9_logistic_regression.py
 ```
 
+### 📋 Quick Preview on GitHub
+
+For a quick overview without installation, you can **view the Jupyter notebook versions directly on GitHub**:
+
+- **[🎓 Student Performance Analysis](student_performance.ipynb)** - Browse the complete analysis with visualizations
+- **[🚀 Falcon 9 Landing Prediction](falcon9.ipynb)** - Explore the SpaceX landing model with charts and metrics
+
+*Note: GitHub's notebook viewer renders all outputs, plots, and markdown for easy reading without running code.*
+
 ## 📁 Project Structure
 
 ```
 regression-journey/
-├── falcon9_logistic_regression.py    # SpaceX landing prediction
-├── student_performance_linear_regression.py  # Student performance analysis
-├── data/                             # Dataset files
-├── images/                           # Visualizations and assets
-├── kockice.py                        # Custom ML library
-└── README.md                         # Project documentation
+├── falcon9_logistic_regression.py       # SpaceX landing prediction (Marimo)
+├── student_performance_linear_regression.py  # Student performance analysis (Marimo)
+├── falcon9.ipynb                        # SpaceX analysis (Jupyter - GitHub viewable)
+├── student_performance.ipynb           # Student performance (Jupyter - GitHub viewable)
+├── data/                               # Dataset files
+├── images/                             # Visualizations and assets
+├── kockice.py                          # Custom ML library
+└── README.md                           # Project documentation
 ```
 
 ## 🧠 Key Learning Outcomes
