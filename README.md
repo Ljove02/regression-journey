@@ -113,6 +113,11 @@ Both projects include comprehensive visualizations:
 - Model deployment as REST API
 - Deep learning approaches for comparison
 
+## 📊 Dataset Attribution
+
+**Falcon 9 Dataset:** IBM Data Science Capstone, licensed under GPL-3.0  
+Source: [IBM-Data-Science-Capstone-SpaceX](https://github.com/chuksoo/IBM-Data-Science-Capstone-SpaceX/tree/main?tab=readme-ov-file)
+
 ---
 
 _Built with passion for machine learning and space exploration_ 🌟
