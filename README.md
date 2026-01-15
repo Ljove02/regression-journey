@@ -1,4 +1,4 @@
-# 🚀 Regression Journey
+# Regression Journey
 
 **Quick View:** [Student Performance](student_performance.ipynb) | [Falcon 9 Landing](falcon9.ipynb)
 
